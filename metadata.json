@@ -1,0 +1,7 @@
+{
+  "name": "nawaz fights",
+  "description": "The ultimate travel companion for comparing cheapest flights, booking hotels, and planning dream vacations with advanced AI assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
